@@ -31,25 +31,24 @@ Use the table to find row and column references for the characters in the Postco
 Note that the sixth row/column is numbered 0 not 
 
 
-  |          | 1        |   2       |    3      |      4    |      5    |       0   |
-  |----------|----------|-----------|-----------|-----------|-----------|-----------|
-  | **1**    | 0        | 1         | 2         |  3        | 4         |  5        |
-  | **2**    | 6        | 7         | 8         |  9        | A         |  B        |
-  | **3**    | C        | D         | E         |  F        | G         |  H        |
-  | **4**    | I        | J         | K         |  L        | M         |  N        |
-  | **5**    | O        | P         | Q         |  R        | S         |  T        |
-  | **0**    | U        | V         | W         |  X        | Y         |  Z        |
-
+|       | 1   | 2   | 3   | 4   | 5   | 0   |
+|-------|-----|-----|-----|-----|-----|-----|
+| **1** | 0   | 1   | 2   | 3   | 4   | 5   |
+| **2** | 6   | 7   | 8   | 9   | A   | B   |
+| **3** | C   | D   | E   | F   | G   | H   |
+| **4** | I   | J   | K   | L   | M   | N   |
+| **5** | O   | P   | Q   | R   | S   | T   |
+| **0** | U   | V   | W   | X   | Y   | Z   |
 
 For example the letter S is in row 5 and column 5. Write these down in a grid like this (we’ve
 
 used an example Postcode of SN3 4RD and DPS of 1A), then add them up:
 
 
-  |Postcode and DPS  | S | N | 3 | 4 | R | D | 1 | A |  Total |
-  |-----------------:|---|---|---|---|---|---|---|---|:--------:|
-  | **Row**          | 5 | 4 | 1 | 1 | 5 | 3 | 1 | 2 |  22	  |
-  | **Column**       | 5 | 0 | 4 | 5 | 4 | 2 | 2 | 5 |  27	  |
+|Postcode and DPS  | S | N | 3 | 4 | R | D | 1 | A |  Total |
+|-----------------:|---|---|---|---|---|---|---|---|:--------:|
+| **Row**          | 5 | 4 | 1 | 1 | 5 | 3 | 1 | 2 |  22	  |
+| **Column**       | 5 | 0 | 4 | 5 | 4 | 2 | 2 | 5 |  27	  |
 
 
 
